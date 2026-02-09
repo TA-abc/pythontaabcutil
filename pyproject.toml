@@ -1,0 +1,10 @@
+[project]
+name = "pytautils"
+version = "0.1.0"
+
+[project.scripts]
+pytals = "pytals.main:main"
+pytazipindir = "pytazipindir.main:main"
+pytaunzipindir = "pytaunzipindir.main:main"
+pytazipeach = "pytazipeach.main:main"
+pytaunzipeach = "pytaunzipeach.main:main"
